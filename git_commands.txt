@@ -1,0 +1,4 @@
+git add . - prida vsetky subory aj zacinajuce bodkou
+git add * - prida vsetky subory bez tych zacinajucich bodkou
+git add --all == git add .
+git add -u - prida vsetky ktore sa nachadzaju v localnom repositary
