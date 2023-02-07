@@ -8,3 +8,7 @@ git add subor.txt - prida subor.txt
 git commit -a -m "sprava" - pouzije git add aj git commit naraz, ALE NEPLATI PRE NOVE SUBORY
 
 git push -u origin main - ulozi raz kam davat subory aby sme potom mohli dat len git push
+
+git pull daj k sebe na lokalny repositar subory z githubu
+
+ked konflikt tak git pull, vyriesit konflikt a git push
